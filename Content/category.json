@@ -1,56 +1,57 @@
 {
     "title": "Samsun Modern Yerler Rehberi",
-    "description": "Samsun şehrindeki en öne çıkan modern yerler ve popüler noktalar.",
+    "description": "Samsun şehrindeki en seçkin modern yerler ve popüler duraklar.",
+    "badge": "Modern Yerler",
     "category": [
         {
-            "id": "modern-yerler-1",
-            "title": "Önemli Mekan 1 - Samsun",
-            "category_badge": "Popüler Durak",
-            "badge_icon": "fa-star",
-            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
-            "description": "Samsun şehrinin en çok ziyaret edilen ve beğenilen özel lokasyonlarından biri.",
-            "target_url": "#",
-            "button_text": "Detayları Gör"
-        },
-        {
-            "id": "modern-yerler-2",
-            "title": "Önemli Mekan 2 - Samsun",
-            "category_badge": "Kültür & Yaşam",
-            "badge_icon": "fa-landmark",
-            "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
-            "description": "Bölgenin dokusunu ve sosyal hayatını yansıtan tarihi ve modern buluşma noktası.",
-            "target_url": "#",
-            "button_text": "İncele"
-        },
-        {
-            "id": "modern-yerler-3",
-            "title": "Önemli Mekan 3 - Samsun",
-            "category_badge": "Gezgin Favorisi",
-            "badge_icon": "fa-compass",
-            "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80",
-            "description": "Ziyaretçilerin rotalarından asla eksik etmediği atmosferik ve eşsiz bir nokta.",
-            "target_url": "#",
+            "id": "samsun-modern-yerler-1",
+            "title": "Samsun Merkezi Alışveriş ve Yaşam Merkezi",
+            "category_badge": "Modern Yaşam",
+            "badge_icon": "fa-city",
+            "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan şehrin hareketli kalbinde yer alan, dünya markaları ve mimarisiyle öne çıkan avm.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-modern-yerler/",
             "button_text": "Keşfet"
         },
         {
-            "id": "modern-yerler-4",
-            "title": "Önemli Mekan 4 - Samsun",
-            "category_badge": "Özel Mimari",
-            "badge_icon": "fa-city",
-            "image": "https://images.unsplash.com/photo-1527838832700-548952f12098?auto=format&fit=crop&w=800&q=80",
-            "description": "Mimari yapısı ve çevresindeki estetik detaylarıyla göz kamaştıran bölge.",
-            "target_url": "#",
-            "button_text": "Göz At"
+            "id": "samsun-modern-yerler-2",
+            "title": "Samsun Kültür ve Sanat Merkezi",
+            "category_badge": "Sanat & Sahne",
+            "badge_icon": "fa-masks-theater",
+            "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan modern tiyatro, konser salonları ve sergi alanlarıyla sanatın buluşma noktası.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-modern-yerler/",
+            "button_text": "Keşfet"
         },
         {
-            "id": "modern-yerler-5",
-            "title": "Önemli Mekan 5 - Samsun",
-            "category_badge": "Simge Nokta",
-            "badge_icon": "fa-location-dot",
-            "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=800&q=80",
-            "description": "Samsun gezisinde mutlaka görülmesi gereken simge mekanlardan biri.",
-            "target_url": "#",
-            "button_text": "Ziyaret Et"
+            "id": "samsun-modern-yerler-3",
+            "title": "Samsun Plaza ve İş Kuleleri Bölgesi",
+            "category_badge": "Finans Merkezi",
+            "badge_icon": "fa-building",
+            "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan gökyüzüne uzanan modern kuleleri ve dinamik iş dünyasının merkezi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-modern-yerler/",
+            "button_text": "Keşfet"
+        },
+        {
+            "id": "samsun-modern-yerler-4",
+            "title": "Samsun Çağdaş Yaşam Meydanı ve Park",
+            "category_badge": "Sosyal Alan",
+            "badge_icon": "fa-users",
+            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan şehir sakinlerinin buluştuğu, modern peyzajıyla dikkat çeken geniş meydan.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-modern-yerler/",
+            "button_text": "Keşfet"
+        },
+        {
+            "id": "samsun-modern-yerler-5",
+            "title": "Samsun Marina ve Sahil Limanı",
+            "category_badge": "Yat Limanı",
+            "badge_icon": "fa-ship",
+            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan lüks teknelerin bağlandığı, sahil boyunca restoran ve kafelerin bulunduğu liman.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-modern-yerler/",
+            "button_text": "Keşfet"
         }
     ]
 }
